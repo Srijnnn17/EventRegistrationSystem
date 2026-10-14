@@ -1,6 +1,6 @@
 # 🌐 EventSphere — React Event Registration System
 
-> **Live at:** `http://localhost:5173` | **Project:** `C:\Users\srija\.gemini\antigravity-ide\scratch\event-registration-system`
+> **Live at:** `https://event-registration-system-pearl.vercel.app/`
 
 ---
 
